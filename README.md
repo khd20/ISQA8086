@@ -7,7 +7,7 @@
 * Purpose of Repository: **Personal Repository for Individual Assignments**
 
 
-###List of Files###
+### List of Files 
 1. Background Research
 2. Data Entry Analysis
 3. Peer Review
