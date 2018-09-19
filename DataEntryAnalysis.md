@@ -15,3 +15,12 @@
 7. Heading column naming such as Cunni #/L can be confusion because the naming should be different rather than show the number of Cunni per length. 
 8. Location – there is no column name for the location where measured values are taken 
 9. Both zoop and zoop – temp-main files should be combined to avoid missing data between the dates 
+
+
+
+## Suggested Data Format 
+
+* Pond 2010 file data set: **| Date | Species | Temp (F/C) |  Density (units) | Colony Diameter (units) | Z | **
+* Make sure to list Temp (F) or (C) 
+* Make sure to list state the units formula in the units - Density (units) 
+
