@@ -14,7 +14,7 @@
 6. Analysis graph should not be placed in the dataset 
 7. Inconsistent Naming Convention Problem - Heading column naming such as Cunni #/L can be confusion because the naming should be different rather than show the number of Cunni per length - perhaps state clearly like Density to combine three data file sets together 
 8. Location – there is no column name for the location where measured values are taken 
-9. Both zoop and zoop – temp-main files should be combined to avoid missing data between the dates 
+9. All file data sets include pond2010, zoop and zoop – temp-main files should be combined to avoid missing data between the dates 
 10. Stating both species finding on the same row which makes data analysis in R be very complicated 
 
 
