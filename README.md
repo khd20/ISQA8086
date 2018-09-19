@@ -9,7 +9,7 @@
 
 ### List of Files 
 
-1.. Data Entry Analysis
+1. Data Entry Analysis
 2. Peer Review
 3. Service Learning Reflection 
 
