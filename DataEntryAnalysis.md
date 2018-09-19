@@ -1,10 +1,11 @@
 # Data Entry Analysis 
 
-*Student: Kim Duong 
-*Assignment: Data Entry Analysis 
-*Due Date: 9/19/2018 
+* Student: Kim Duong 
+* Assignment: Data Entry Analysis 
+* Due Date: 9/19/2018 
 
-##Pond2010 file
+## Findings 
+
 1. Missing data in certain column 
 2. Columns are not placed in the order to make reading easier. For example, z values should not be placed in the second column and date should not be placed in the first column. Date should be listed in order rather than sectional for each species 
 3. Some columns heading should label the measurement units. For example, whether the temperature is in Fahrenheit or Celsius 
