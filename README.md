@@ -20,9 +20,9 @@
 Created on 9/19/2018 
 
 ## Background Research Report 
-Organization: Linda Loring Nature Foundation
-Chosen Topic: Overview of Organization 
-Created on 9/26/2018 
+* Organization: Linda Loring Nature Foundation
+* Chosen Topic: Overview of Organization 
+* Created on 9/26/2018 
  
 ## Peer Review
 
